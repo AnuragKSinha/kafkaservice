@@ -4,5 +4,5 @@
 ## How to get started with Kafka?
 * [Create Topic](https://github.com/AnuragKSinha/kafkaservice/blob/main/src/main/java/io/anuragksinha/kafkaservice/config/KafkaTopicConfig.java)
 * [Configure Producer](https://github.com/AnuragKSinha/kafkaservice/blob/main/src/main/java/io/anuragksinha/kafkaservice/config/KafkaProducerConfig.java)
-* [Configure Consumer]([https://maven.apache.org/guides/index.html](https://github.com/AnuragKSinha/kafkaservice/blob/main/src/main/java/io/anuragksinha/kafkaservice/config/KafkaConsumerConfig.java))
+* [Configure Consumer](https://github.com/AnuragKSinha/kafkaservice/blob/main/src/main/java/io/anuragksinha/kafkaservice/config/KafkaConsumerConfig.java)
 * [Create KafkaListerners](https://maven.apache.org/guides/index.html)
